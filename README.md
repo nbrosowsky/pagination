@@ -15,7 +15,9 @@ Quick setup:
 ```
 
 ```javascript
+<script>
 pagination.setup();
+</script>
 ```
 - By default, setup looks in class "book" for divs with class "page" and preserves the HTML order. 
 - Button default names ids are "pageUp" and "pageDown"
